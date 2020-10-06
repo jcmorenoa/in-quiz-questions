@@ -255,3 +255,9 @@
 - [ ] Certificate Authority
 - [ ] Network Device Enrollment Service
 - [ ] Online Responder
+
+#### Q43. You are deploying a highly available file server using a Hyper-V cluster configurations. After creating the cluster, why must you add a disk as a cluster shared volume (CSV)?.
+- [ ] to implement fault tolerance or zero downtime for the VM
+- [ ] to prevent nodes in a cluster from accessing a VM'storage location
+- [ ] to protect data from loss
+- [ ] to provide nodes in a cluster independent access to a VM'storage location
